@@ -1,0 +1,11 @@
+{
+    "name": "hakan/architecture_web_tp1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hakan EBABIL",
+            "email": "enseignement@ebabil.fr"
+        }
+    ],
+    "require": {}
+}
